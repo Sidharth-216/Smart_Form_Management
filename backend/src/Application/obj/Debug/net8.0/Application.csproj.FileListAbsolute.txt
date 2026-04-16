@@ -1,0 +1,17 @@
+/home/sidhu/Desktop/form_management/backend/src/Application/bin/Debug/net8.0/Application.deps.json
+/home/sidhu/Desktop/form_management/backend/src/Application/bin/Debug/net8.0/Application.dll
+/home/sidhu/Desktop/form_management/backend/src/Application/bin/Debug/net8.0/Application.pdb
+/home/sidhu/Desktop/form_management/backend/src/Application/bin/Debug/net8.0/Domain.dll
+/home/sidhu/Desktop/form_management/backend/src/Application/bin/Debug/net8.0/Shared.dll
+/home/sidhu/Desktop/form_management/backend/src/Application/bin/Debug/net8.0/Domain.pdb
+/home/sidhu/Desktop/form_management/backend/src/Application/bin/Debug/net8.0/Shared.pdb
+/home/sidhu/Desktop/form_management/backend/src/Application/obj/Debug/net8.0/Application.csproj.AssemblyReference.cache
+/home/sidhu/Desktop/form_management/backend/src/Application/obj/Debug/net8.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/sidhu/Desktop/form_management/backend/src/Application/obj/Debug/net8.0/Application.AssemblyInfoInputs.cache
+/home/sidhu/Desktop/form_management/backend/src/Application/obj/Debug/net8.0/Application.AssemblyInfo.cs
+/home/sidhu/Desktop/form_management/backend/src/Application/obj/Debug/net8.0/Application.csproj.CoreCompileInputs.cache
+/home/sidhu/Desktop/form_management/backend/src/Application/obj/Debug/net8.0/Applicat.44B5EDA2.Up2Date
+/home/sidhu/Desktop/form_management/backend/src/Application/obj/Debug/net8.0/Application.dll
+/home/sidhu/Desktop/form_management/backend/src/Application/obj/Debug/net8.0/refint/Application.dll
+/home/sidhu/Desktop/form_management/backend/src/Application/obj/Debug/net8.0/Application.pdb
+/home/sidhu/Desktop/form_management/backend/src/Application/obj/Debug/net8.0/ref/Application.dll
